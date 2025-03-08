@@ -1,0 +1,1 @@
+export const notFound = async (req,res) => res.send('404 Not Found')
